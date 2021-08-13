@@ -2,7 +2,7 @@
 This is a program that graphs complex functions.
 
 # Usage:
-Open the file named `ComplexGrapher.html`.
+Go to this link: https://balam314.github.io/ComplexGrapher/ComplexGrapher.html
 
 # Notes:
 CLASSES.js is library code used in all of my projects, most of it is not used here.
