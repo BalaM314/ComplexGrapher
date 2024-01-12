@@ -1,5 +1,5 @@
 # ComplexGrapher:
-This is a program that graphs complex functions.
+This is a program that graphs complex functions. The default function is f(x)=x^2.
 
 # Usage:
-[click here to view the site](https://balam314.github.io/ComplexGrapher/)
+[Click here to view the site](https://balam314.github.io/ComplexGrapher/)
